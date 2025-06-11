@@ -1,6 +1,7 @@
 .idea/
 .mvn/
-.target/
+target/
+
 
 
 
